@@ -2,7 +2,7 @@
 <h1 align="center">Howdy👋 I'm Joel</h1>
 
 **`Masters in Computer Science`** 
-&nbsp;&nbsp;<img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif">
+&nbsp;&nbsp;<a href="https://github.com/joelpatel"><img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" /></a>
 
  - 🔭 <strong>I ❤️ Full-Stack Development.</strong><br />
  - ⌘ My interests are in **Distributed Systems**, **Blockchain DAPPs** &̲ Server
