@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Joel</h1>
+<h1 align="center">Hi 👋</h1>
 
 **`Masters in Computer Science`** 
 
