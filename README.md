@@ -172,4 +172,4 @@ WebSockets-Socket.io & WebRTC.** <br />
 
 [//]: # (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joelpatel&theme=dark" alt="joelpatel" /></p>)
 
-<p><a href="https://github.com/joelpatel"><img src="https://activity-graph.herokuapp.com/graph?username=joelpatel&theme=dark&bg_color=151515&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
+<!-- <p><a href="https://github.com/joelpatel"><img src="https://activity-graph.herokuapp.com/graph?username=joelpatel&theme=dark&bg_color=151515&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p> -->
