@@ -165,10 +165,10 @@ WebSockets-Socket.io & WebRTC.** <br />
 </p>  
 <br/>
 
-### Stats
+<!-- ### Stats -->
 <p><a href="https://github.com/joelpatel"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joelpatel&show_icons=true&theme=dark&title_color=0eb43b&text_color=ffffff&locale=en&layout=compact" alt="joelpatel" /></a></p>
 
-<p><a href="https://github.com/joelpatel"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joelpatel&show_icons=true&theme=dark&title_color=0eb43b&text_color=ffffff&locale=en" alt="joelpatel" /></a></p>
+<!-- <p><a href="https://github.com/joelpatel"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joelpatel&show_icons=true&theme=dark&title_color=0eb43b&text_color=ffffff&locale=en" alt="joelpatel" /></a></p> -->
 
 [//]: # (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joelpatel&theme=dark" alt="joelpatel" /></p>)
 
